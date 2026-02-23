@@ -6,5 +6,5 @@ print("enter x2")
 x2=float(input())
 print("enter y2")
 y2=float(input())
-d=((x2-x1)*2+(y2-y1)2)*0.5,
+d=((x2-x1)*2+(y2-y1)*2)*0.5,
 print("distance=",d)
